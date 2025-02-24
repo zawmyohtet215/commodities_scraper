@@ -93,3 +93,11 @@ This Python script is designed to extract Myanmar's commodity pricing data from 
 ## License
 
 This script is provided as-is. You may modify it for personal or commercial use but ensure proper attribution where applicable.
+
+## Accessing the Extracted Data
+
+The extracted commodity pricing data can be easily accessed and visualized using Looker Studio. To view and interact with the data, click the following link:
+
+View Extracted Data in Looker Studio >> https://lookerstudio.google.com/s/uGooY3Iqa7Q
+
+This interactive dashboard allows you to explore various data points, trends, and analysis for a deeper understanding of the commodity pricing information.
